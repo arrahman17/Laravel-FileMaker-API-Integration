@@ -1,6 +1,6 @@
 <?php
 
-use App\FileMaker;
+use Netmarket\FileMaker\FileMaker;
 
 require_once dirname(__FILE__) . '/FindImpl.php';
  class FileMaker_Command_FindAny_Implementation extends FileMaker_Command_Find_Implementation

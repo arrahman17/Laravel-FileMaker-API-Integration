@@ -1,6 +1,6 @@
 <?php
 
-use App\FileMaker;
+use Netmarket\FileMaker\FileMaker;
 
 class FileMaker_Record_Implementation
 {

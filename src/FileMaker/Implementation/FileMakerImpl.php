@@ -1,6 +1,6 @@
 <?php
 
-use App\FileMaker;
+use Netmarket\FileMaker\FileMaker;
 
 require_once dirname(__FILE__) . '/Parser/FMResultSet.php';
  class FileMaker_Implementation

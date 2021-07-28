@@ -1,6 +1,6 @@
 <?php
 
-use App\FileMaker;
+use Netmarket\FileMaker\FileMaker;
 
 require_once dirname(__FILE__) . '/../CommandImpl.php';
  class FileMaker_Command_CompoundFind_Implementation extends FileMaker_Command_Implementation

@@ -1,5 +1,5 @@
 <?php
-use App\FileMaker;
+use Netmarket\FileMaker\FileMaker;
   class FileMaker_Result_Implementation
 {
   var $_fm;
