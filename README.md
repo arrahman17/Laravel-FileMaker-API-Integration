@@ -1,7 +1,7 @@
 # Laravel Package for FileMaker Integration
 # Package info
 
-This package is responsible for fetching data from FileMaker using the FileMaker Official API
+This package is responsible for fetching/adding/deleting data from FileMaker using the FileMaker Official API
 
 
 # There are some steps to follow:
