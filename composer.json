@@ -1,5 +1,5 @@
 {
-    "name": "netmarket/paypal",
+    "name": "netmarket/filemaker",
     "description": "A filemaker official API integration with Laravel",
     "type": "library",
     "license": "MIT",
