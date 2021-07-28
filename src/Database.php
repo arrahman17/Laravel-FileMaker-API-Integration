@@ -1,15 +1,14 @@
 <?php
 
 
-namespace App;
+namespace Netmarket\FileMaker;
 
 
 
 use FileMaker_Error;
 use FileMaker_Record;
 use FileMaker_Result;
-use Netmarket\FileMaker\DatabaseConfiguration;
-use Netmarket\FileMaker\FileMaker;
+
 
 class Database
 {
